@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "dependencies": {
+    "chai": "^4.3.10",
+    "mocha": "^10.2.0",
+    "selenium-webdriver": "^4.15.0"
+  },
+  "scripts": {
+    "test": "npx mocha test1.js"
+  }
+}
