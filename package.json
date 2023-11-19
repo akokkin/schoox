@@ -6,6 +6,6 @@
     "selenium-webdriver": "^4.15.0"
   },
   "scripts": {
-    "test": "npx mocha test1.js"
+    "test": "npx mocha tests.js --timeout 10000"
   }
 }
